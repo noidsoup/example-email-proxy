@@ -24,7 +24,7 @@
     "nodemailer-sendgrid-transport-categories": "^0.2.0",
     "nodemon": "^2.0.15",
     "redis": "^4.0.0",
-    "swig-email-templates": "^6.0.0",
+    "swig-email-templates": "^7.0.0",
     "winston": "^3.3.3"
   }
 }
